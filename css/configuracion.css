@@ -1,0 +1,24 @@
+.porgrama{
+    width: 50rem;
+    height: 50rem;
+    border:1px solid black;
+
+
+}
+.programa_cj-titulo{
+    width: 50rem;
+    height: 50rem;
+    border: 1px solid black;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.programa_bt{
+    width:30rem;
+    height: 5rem;
+    border: 1px solid black;
+    border-radius:3px;
+}
